@@ -1,0 +1,24 @@
+#msg-box4-3 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article {
+  color: #ffffff;
+}
+#ext_menu-m .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-m .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-n H1 {
+  text-align: right;
+}
